@@ -1,3 +1,5 @@
+import random
+
 print(0o20)
 print(0xFF)
 print(0b1000)
@@ -8,3 +10,5 @@ print()
 print(int('64', 8))
 print(int('64', 16))
 print(int('1000', 2))
+
+print(random.randint(1, 10))

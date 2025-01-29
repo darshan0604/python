@@ -1,3 +1,5 @@
+import random
+
 #list
 l1 = ['Darshan', 'Suresh', 'Ram']
 print(l1)
@@ -9,3 +11,5 @@ print(t1[0])
 #Disctionary
 d1 = {'one':'lemon', 'two':'ginger', 'comic':'harry'}
 print(d1['one'])
+
+print(random.choice(l1))
