@@ -1,0 +1,6 @@
+print(0o20)
+print(0xFF)
+print(0b1000)
+print(oct(64))
+print(hex(64))
+print(bin(64))
