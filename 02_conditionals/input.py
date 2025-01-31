@@ -1,0 +1,1 @@
+fInput = input("Write Anything -> ")
