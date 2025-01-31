@@ -45,7 +45,7 @@
 #     print("D Grade")
 
 #solution4
-fruit = "Mango"
-color = "Orange"
+#fruit = "Mango"
+#color = "Orange"
 
 #  sure if fruit = "Mango": 'Yes' else: "No"
