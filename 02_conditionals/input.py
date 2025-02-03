@@ -50,3 +50,7 @@
 
 #  sure if fruit = "Mango": 'Yes' else: "No"
 #Something
+
+#8solution
+
+password = "S"
