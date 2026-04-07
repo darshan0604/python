@@ -14,3 +14,5 @@ Thumbs.db
 
 # Text files
 *.txt
+# Don't ignore requirements.txt
+!requirements.txt
