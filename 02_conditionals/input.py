@@ -15,7 +15,7 @@
 #     print("Adult")
 # else:
 #     print("Senior")
-    
+
 # #solution 2
 # #ternary operator
 # price = 12 if age >= 18 else 8
@@ -31,10 +31,10 @@
 # score = int(input("Enter Percentage -> "))
 
 
-# if(score >= 100 or score <= 0):    
+# if(score >= 100 or score <= 0):
 #     print("Percentage Should be Under 100 and higher 0")
 #     exit()
-    
+
 # if(score >= 90):
 #     print("A Grade")
 # elif(score >= 70):
@@ -44,18 +44,18 @@
 # elif(score >= 35):
 #     print("D Grade")
 
-#solution4
-#fruit = "Mango"
-#color = "Orange"
+# solution4
+# fruit = "Mango"
+# color = "Orange"
 
 #  sure if fruit = "Mango": 'Yes' else: "No"
-#Something
+# Something
 
 # #leap year
 
 year = int(input("Type year -> "))
 
-if(year % 400 == 0 or (year % 4 == 0 and year % 100 != 0)):
-    print(year,"Leap Year")
+if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
+    print(year, "Leap Year")
 else:
-    print(year,"Not a leap year")
+    print(year, "Not a leap year")

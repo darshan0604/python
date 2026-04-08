@@ -7,7 +7,7 @@
 
 # for line in open('name.py'):
 #     print(line, end='')
-    
+
 # print(f.__next__())
 # print(f.__next__())
 # print(f.__next__())
@@ -21,7 +21,7 @@
 # I = iter(myList)
 # print
 
-D = {'a':1, 'b':2}
+D = {"a": 1, "b": 2}
 
 for key in D:
     print(key)

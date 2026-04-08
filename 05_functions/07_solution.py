@@ -1,6 +1,7 @@
 def valueArgs(*args):
     for i in args:
-        print(i) 
+        print(i)
     return sum(args)
 
-print("\nSum of given arguments ",valueArgs(10,20,20))
+
+print("\nSum of given arguments ", valueArgs(10, 20, 20))

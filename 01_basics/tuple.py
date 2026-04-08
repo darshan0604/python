@@ -8,10 +8,9 @@ if "Black" in tea_types:
 
 print(type(tea_types))
 
-#nesting
+# nesting
 
-nest = (21, (1,2,3), "Darshan")
+nest = (21, (1, 2, 3), "Darshan")
 print(nest)
 print(nest[1])
 print(nest[1][0:2])
-

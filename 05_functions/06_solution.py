@@ -1,5 +1,6 @@
-''' A lambda function is a small anonymous function that can take any number of arguments, 
- but can only have one expression.'''
-cube = lambda x: x ** 3
+"""A lambda function is a small anonymous function that can take any number of arguments,
+but can only have one expression."""
 
-print("Cube -> ",cube(3))
+cube = lambda x: x**3
+
+print("Cube -> ", cube(3))
